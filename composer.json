@@ -15,10 +15,10 @@
     ],
     "require": {
         "php": ">=7.1",
-        "illuminate/database": "~5.8",
-        "illuminate/support": "~5.8",
+        "illuminate/database": "~6.2",
+        "illuminate/support": "~6.2",
         "nesbot/carbon": "~2.0",
-        "razorpay/razorpay": "^2.2",
+        "razorpay/razorpay": "^2.5",
         "symfony/http-kernel": "^4.2"
     },
     "require-dev": {
